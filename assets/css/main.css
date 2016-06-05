@@ -1,0 +1,60 @@
+::selection { background-color: #0096d1; color: white; }
+::-moz-selection { background-color: #0096d1; color: white; }
+
+.comfylogo{
+    float:left;
+    width:30px;
+    height:30px;
+}
+
+body {
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #444;
+}
+
+a {
+	color: #00A3d1;
+	background-color: transparent;
+	font-weight: bold;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #3c763d;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 16px;
+	background-color: #f9f9f9;
+	border: 1px solid #3c763d;
+	color: #000000;
+    font-weight:bold;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#body {
+	margin: 0 15px 0 15px;
+}
+
+p.footer {
+	text-align: right;
+	font-size: 11px;
+	border-top: 1px solid #3c763d;
+	line-height: 32px;
+	padding: 0 10px 0 10px;
+	margin: 20px 0 0 0;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #8a6d3b;
+	box-shadow: 0 0 8px #3c763d;
+}
